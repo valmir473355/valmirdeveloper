@@ -10,7 +10,7 @@
 
 
 .introducao h1 {
-    font-size: 4.5rem;
+    font-size: 3.5rem;
     line-height: 1.125;
     margin-bottom: 30px;
     position: relative;
@@ -43,7 +43,7 @@
 }
 
 
-@media (max-width: 1000px) {
+@media (max-width: 800px) {
     .introducao {
         grid-template-columns: 1fr 1fr;
         gap: 40px;
@@ -66,7 +66,7 @@
         grid-template-columns: 1fr;
     }
 
-    
+
     .introducao img {
         display: none;
     }
