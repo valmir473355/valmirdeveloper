@@ -22,10 +22,10 @@
     display: block;
     width: 130px;
     height: 100px;
-    background: url("../img/favicon.svg") no-repeat center;
+    background: url("../img/decoração.svg") no-repeat center;
     position: absolute;
-    top: -25px;
-    left: -50px;
+    top: -15px;
+    left: -40px;
     z-index: -1;
 }
 
@@ -38,8 +38,8 @@
 
 @media (max-width: 1000px) {
     .introducao h1 {
-        font-size: 1rem;
-    }
+        font-size: 3rem;
+    }  
 }
 
 
@@ -50,20 +50,14 @@
     }
 
     .introducao h1 {
-        font-size: 1.3rem;
+        font-size: 2rem;
     }
 
-
-    .introducao p {
-        font-size: 0.9rem;
-        color: #525252;
-    }
 
     .introducao h1::before {
-        width: 50px;
-        height: 50px;
-        left: -14px;
-        top: -12px;
+        width: 30px;
+        height: 10px;
+        left: 10px;
     }
 }
 
@@ -77,14 +71,4 @@
     .introducao img {
         display: none;
     }
-
-    .introducao h1 {
-        font-size: 1rem;
-    }
-
-    .introducao p {
-        font-size: 1.5rem;
-    }
-
-
 }
