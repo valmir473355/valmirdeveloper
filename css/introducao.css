@@ -54,6 +54,11 @@
     }
 
 
+    .introducao p {
+        font-size: 0.5rem;
+    }
+
+
     .introducao h1::before {
         width: 30px;
         height: 10px;
