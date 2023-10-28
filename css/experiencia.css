@@ -94,15 +94,15 @@
 
     .experiencia .subtitulo {
         color: #141414;
-        font-size: 1.3rem;
+        font-size: 0.6rem;
     }
 
     .experiencia-texto {
-        font-size: 0.9rem;
+        font-size: 0.6rem;
     }
 
     .empresa-texto {
-        font-size: 0.7rem;
+        font-size: 0.5rem;
     }
 
     .empresa-titulo {
@@ -114,6 +114,7 @@
         order: 1;
         width: initial;
         text-align: left;
+        font-size: 0.4rem;
     }
 }
 
