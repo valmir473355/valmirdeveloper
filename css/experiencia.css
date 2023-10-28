@@ -94,6 +94,7 @@
 
     .experiencia .subtitulo {
         color: #141414;
+        font-size: 1.5rem;
     }
 
     .empresa-texto {
@@ -114,11 +115,15 @@
         grid-template-columns: 1fr;
     }
 
+    .empresa-texto {
+        font-size: 0.9rem;
+    }
+
     .experiencia .subtitulo {
         font-size: 1.5rem;
     }
 
     .experiencia-texto {
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
 }
