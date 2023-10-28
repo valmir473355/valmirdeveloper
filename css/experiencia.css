@@ -94,19 +94,19 @@
 
     .experiencia .subtitulo {
         color: #141414;
-        font-size: 1rem;
+        font-size: 1.3rem;
+    }
+
+    .experiencia-texto {
+        font-size: 0.9rem;
     }
 
     .empresa-texto {
-        font-size: 0.9rem;
+        font-size: 0.7rem;
     }
 
     .empresa-titulo {
         font-size: 1rem;
-    }
-
-    .empresa-texto {
-        font-size: 0.5rem;
     }
 
     .empresa-ano {

@@ -50,12 +50,12 @@
     }
 
     .introducao h1 {
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
 
 
     .introducao p {
-        font-size: 1rem;
+        font-size: 0.6rem;
     }
 
 
@@ -73,10 +73,14 @@
     }
 
     .introducao h1 {
-        font-size: 1.2rem;       
+        font-size: 1.4rem;       
+    }
+
+    .introducao p {
+        font-size: 0.9rem;
     }
     
-    
+
 
     .introducao img {
         display: none;
