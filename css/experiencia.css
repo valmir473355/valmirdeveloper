@@ -113,4 +113,12 @@
     .empresa {
         grid-template-columns: 1fr;
     }
+
+    .experiencia .subtitulo {
+        font-size: 1.5rem;
+    }
+
+    .experiencia-texto {
+        font-size: 1rem;
+    }
 }
