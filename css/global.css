@@ -2,6 +2,7 @@ body {
     font-family: "Fira Sans", Arial, sans-serif;
     margin: 0px;
     color: #141414;
+    margin-bottom: 1000px;
 }
 
 
@@ -23,4 +24,14 @@ ul {
 img {
     max-width: 100%;
     display: block;
+}
+
+
+.subtitulo {
+    font-size: 8rem;
+    line-height: 1;
+    text-transform: uppercase;
+    word-break: break-all;
+    max-width: 5ch;
+    
 }
