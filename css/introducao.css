@@ -38,7 +38,7 @@
 
 @media (max-width: 1000px) {
     .introducao h1 {
-        font-size: 1.2rem;
+        font-size: 0.5rem;
     }  
 }
 
@@ -50,7 +50,7 @@
     }
 
     .introducao h1 {
-        font-size: 1rem;
+        font-size: 0.5rem;
     }
 
 
@@ -73,7 +73,7 @@
     }
 
     .introducao h1 {
-        font-size: 1rem;       
+        font-size: 0.5rem;       
     }
 
     .introducao p {
