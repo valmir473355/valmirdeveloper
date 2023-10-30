@@ -102,6 +102,12 @@
         font-size: 0.8rem;
     }
 
+
+    .experiencia-texto strong {
+        color: #141414;
+        font-size: 0.5rem;
+    }
+
     .empresa-texto {
         font-size: 0.5rem;
     }
