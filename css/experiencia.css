@@ -87,6 +87,8 @@
 }
 
 
+
+
 @media (max-width: 800px) {
     .experiencia {
         grid-template-columns: 1fr;
@@ -121,6 +123,10 @@
         order: 1;
         width: initial;
         text-align: left;
+        font-size: 0.4rem;
+    }
+
+    .empresa-site {
         font-size: 0.4rem;
     }
 }
