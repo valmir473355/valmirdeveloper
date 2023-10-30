@@ -44,6 +44,18 @@
     }
 
     .footer-contato li {
-        font-size: 1.5rem;
+        font-size: 0.7rem;
+    }
+
+    .footer-texto {
+        font-size: 0.5rem;
+    }
+
+    .footer-contato li {
+        font-size: 0.5rem;
+    }
+
+    .footer-copy {
+        font-size: 0.4rem;
     }
 }
