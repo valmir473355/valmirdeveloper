@@ -48,14 +48,14 @@
     }
 
     .footer-texto {
-        font-size: 0.5rem;
+        font-size: 1.5rem;
     }
 
     .footer-contato li {
-        font-size: 0.5rem;
+        font-size: 1.5rem;
     }
 
     .footer-copy {
-        font-size: 0.6rem;
+        font-size: 1.125rem;
     }
 }

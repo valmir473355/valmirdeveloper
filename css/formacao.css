@@ -160,11 +160,11 @@
 
     .formacao .subtitulo {
         color: #ffffff;
-        font-size: 1.5rem;
+        font-size: 3rem;
     }
 
     .formacao-texto {
-        font-size: 9px;
+        font-size: 1.25rem;
     }
 
     .formacao-extra h3::before {
@@ -173,7 +173,7 @@
     }
 
     .idiomas li {
-        font-size: 0.5rem;
+        font-size: 1.125rem;
     }
 }
 
