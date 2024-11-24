@@ -1,6 +1,6 @@
 Site/Portfolio que eu criei assistindo as aulas do Professor André Rafael, no curso Origamid.
 
-https://valmirdeveloper.com.br/
+https://valmir.dev.br/
 
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/92243436?v=4" align="center" height="200" width="200" />
